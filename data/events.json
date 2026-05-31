@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d003a526-a9a5-40f7-8c7d-2227ea8ab467",
+    "title": "Soirée Networking",
+    "eventType": "outing",
+    "description": "Une soirée conviviale pour rencontrer d'autres participants autour d’un verre.",
+    "location": "Mövenpick Sousse, Tunisia",
+    "dayTime": "05:00PM",
+    "startDate": "2025-07-25",
+    "endDate": "2025-07-25",
+    "picture": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275709483.jpg?k=37557240b027ddc033a08642542c4d2202a6077765ae664319bbfe109e93b35d&o=&hp=1"
+  },
+  {
+    "id": "c734b777-6714-418d-87a1-d5412282f55f",
+    "title": "Cours de Cuisine Tunisienne",
+    "eventType": "event",
+    "description": "Participez à un atelier de cuisine pour apprendre à préparer des plats traditionnels tunisiens avec un chef local.",
+    "location": "Dar Zarrouk, Sousse Medina",
+    "dayTime": "12:00PM",
+    "startDate": "2025-07-26",
+    "endDate": "2025-07-26",
+    "picture": "https://www.darzarrouk.tn/wp-content/uploads/2025/06/image-petit-home.webp"
+  }
+]
